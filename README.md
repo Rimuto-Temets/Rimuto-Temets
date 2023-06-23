@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Rimuto-Temets 🥇
+- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)
+- 🌱 I’m currently learning JavaScript
+- ❓ Ask me about anything related to computacion
+- 👽 Fun fact: I  Play Basketball
